@@ -1,1 +1,6 @@
-*.txt
+scrapping_plan.txt
+data/products.csv
+data/product_links.txt
+data/images/*
+requirements.in
+venv/
